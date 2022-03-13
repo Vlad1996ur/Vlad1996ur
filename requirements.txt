@@ -26,7 +26,7 @@ watchgod==0.6
 win32-setctime==1.0.1
 yarl==1.5.1
 vk-api==11.8.0
-sqlite3 == 3.35.0
+sqlite3==3.35.0
 requests
 vk_api
 time
