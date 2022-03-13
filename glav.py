@@ -33,7 +33,6 @@ three_results = cursor.fetchmany(200)
 id_list = three_results
 vse=(len(id_list))
 
-
 while True:
 	try:
 		print("запустил")
