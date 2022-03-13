@@ -1,4 +1,4 @@
-python
+python == 3.9
 sqlite3
 requests
 vk_api
