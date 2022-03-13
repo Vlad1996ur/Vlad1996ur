@@ -16,7 +16,7 @@ conect.execute("""CREATE TABLE IF NOT EXISTS users(
 
 )""")
 conect.commit()
-token=("bae94cf12c6bf27e092f63a515ef1830023a5c488c104ca27878f267a25ca180b506a524bd1839bfb29fc")
+token=("6dcf6d858122a5e0459450ce24aba61f8cd3468d1c53dcb1d91bd684d32d43347c92d88dcac70085b4164")
 global nerab
 nerab=[]
 
