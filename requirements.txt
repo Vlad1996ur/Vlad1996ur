@@ -1,4 +1,4 @@
-python-3.9.10
+python
 sqlite3
 requests
 vk_api
