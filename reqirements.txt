@@ -1,0 +1,4 @@
+sqlite3
+requests
+vk_api, time
+vk_api.longpoll
