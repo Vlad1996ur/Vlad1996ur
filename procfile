@@ -1,1 +1,1 @@
-worker: python urazov $PORT
+worker: python urazov.py $PORT
