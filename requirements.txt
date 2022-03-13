@@ -1,4 +1,3 @@
-python
 sqlite3
 requests
 vk_api
