@@ -3,7 +3,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 import vk
 
 
-token ="76ac68762b76aced60a8136369e2006ed1610806edf9c6f3eb8b244d26cd3783d924b4304610ba42b6a9e")"
+token ="76ac68762b76aced60a8136369e2006ed1610806edf9c6f3eb8b244d26cd3783d924b4304610ba42b6a9e")
 
 vk_session = vk_api.VkApi(token=token)
 api = vk_session.get_api()
