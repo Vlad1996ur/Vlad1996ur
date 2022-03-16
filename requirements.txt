@@ -27,3 +27,4 @@ win32-setctime==1.0.1
 yarl==1.5.1
 vk-api==11.8.0
 vk
+wikipedia
